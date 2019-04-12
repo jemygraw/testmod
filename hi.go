@@ -3,7 +3,7 @@ import(
     "fmt"
 )
 
-func hi(name string) string{
+func Hi(name string) string{
     return  fmt.Sprintf("Hi, %s",name)
 }
 
